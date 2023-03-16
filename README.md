@@ -1,0 +1,2 @@
+# LJXFindDuplicateFileScript
+查找指定文件夹中的重复文件
